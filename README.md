@@ -59,7 +59,3 @@ This project is part of my professional portfolio, demonstrating:
 ## Author
 **Ashwini Khambe**  
 Aspiring Embedded Software Engineer | IoT Enthusiast
-
----
-
-> ⚡ This repository reflects my hands-on skills in Embedded Systems and IoT, aiming to impress recruiters during industry placements.
